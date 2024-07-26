@@ -33,7 +33,7 @@ export default function Mypage() {
         /></div>
         </div>
         <h1 className=" text-[#E5E7EB] text-[72px]  text-center font-medium leading-none">
-        Now it's easier than<br/> ever to build products
+        Now it&#39;s easier than<br/> ever to build products
         </h1>
         <div className="text-[#FFFFFF]/70 px-[430px] text-center">
         Preline is a large open-source project, crafted with Tailwind CSS framework by Hmlstream.
