@@ -67,7 +67,7 @@ export default function Mypage() {
           </div>
           </div>
           <div className="font-medium text-[#6B7280] leading-6">
-            Some quick example text to build on the <br /> card title and make up the bulk of the <br /> card's content.
+            Some quick example text to build on the <br /> card title and make up the bulk of the <br /> card&apos;s content.
           </div>
           <div className="flex flex-row">
             <div className="transition bg-[#2563EB] cursor-pointer  hover:bg-[#2563EB]/80 px-[16px] py-[14px] text-white text-[15px] leading-[120%] rounded-[8px] text-center">
@@ -98,7 +98,7 @@ export default function Mypage() {
           </div>
           </div>
           <div className="font-medium text-[#6B7280] leading-6">
-            Some quick example text to build on the <br /> card title and make up the bulk of the <br /> card's content.
+            Some quick example text to build on the <br /> card title and make up the bulk of the <br /> card&apos;s content.
           </div>
           <div className="flex flex-row">
             <div className="transition bg-[#2563EB] cursor-pointer hover:bg-[#2563EB]/80 px-[16px] py-[14px] text-white text-[15px] leading-[120%] rounded-[8px] text-center">
@@ -129,7 +129,7 @@ export default function Mypage() {
           </div>
           </div>
           <div className="font-medium text-[#6B7280] leading-6">
-            Some quick example text to build on the <br /> card title and make up the bulk of the <br /> card's content.
+            Some quick example text to build on the <br /> card title and make up the bulk of the <br /> card&apos;s content.
           </div>
           <div className="flex flex-row">
             <div className=" transition cursor-pointer bg-[#2563EB] px-[16px] py-[14px] hover:bg-[#2563EB]/80 text-white text-[15px] leading-[120%] rounded-[8px] text-center">
