@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "web-3.0",
+  title: "web-4.0",
   description: "info about Ethereum",
 };
 
